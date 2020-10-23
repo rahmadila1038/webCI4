@@ -14,9 +14,11 @@
                 </td>
             </tr>
             <tr>
-                <td><?= $nama ?> </td>
-                <td><?= $npm ?> </td>
-                <td><?= $jurusan ?> </td>
+               
+                <td>Rahmadila Nurjannah</td>
+                <td>1817051038</td>
+                <td>ilmu komputer</td>
+                
             </tr>
         </table>
     
